@@ -1,0 +1,14 @@
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.deps.json
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\bin\Debug\netstandard2.0\BusinessLogicLayer.pdb
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.dll
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.pdb
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\BusinessLogicLayer\obj\Debug\netstandard2.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache

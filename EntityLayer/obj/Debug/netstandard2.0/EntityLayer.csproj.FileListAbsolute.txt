@@ -1,0 +1,9 @@
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.deps.json
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\bin\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csprojAssemblyReference.cache
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.AssemblyInfo.cs
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.dll
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.pdb
+C:\Users\EMREPC\source\repos\YazOkuluDersleri\EntityLayer\obj\Debug\netstandard2.0\EntityLayer.csproj.CoreCompileInputs.cache
